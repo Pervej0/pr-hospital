@@ -1,0 +1,44 @@
+.slider-1 {
+  background: linear-gradient(rgba(56, 184, 44, 0.6), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/R0Yzf6P/photo-1574958269340-fa927503f3dd-ixid-Mnwx-Mj-A3f-DB8-MHxwa-G90by1w-YWdlf-Hx8f-GVuf-DB8f-Hx8-ixlib-r.jpg")
+      no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-width: 100%;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.slider-2 {
+  background: linear-gradient(rgba(56, 184, 44, 0.6), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/LdXvZSf/slide3.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-width: 100%;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.slider-3 {
+  background: linear-gradient(rgba(56, 184, 44, 0.6), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/mHLR195/slide1.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-width: 100%;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.healthTips .box {
+  background: url("https://i.ibb.co/M2wcTXP/Portrait-of-middle-aged-asian-female-doctor-standing-in-hospital-corridor.jpg")
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: auto;
+  clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
